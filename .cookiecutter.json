@@ -1,0 +1,15 @@
+{
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+    "artifact_id": "java-kotlin-lib-test-ydaIC",
+    "component_id": "java-kotlin-lib-test-ydaIC",
+    "description": "This project was created from the template-java-kotlin-library template.",
+    "destination": {
+        "git": {
+            "name": "java-kotlin-lib-test-ydaIC",
+            "owner": "fp-mt-test-org"
+        }
+    },
+    "java_package_name": "javakotlinlibtestydaIC",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-ydaIC"
+}
